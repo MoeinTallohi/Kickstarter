@@ -16,6 +16,7 @@ The main challenge encountered was setting fields. Determining the best data bas
 The concern of the analysis is to analyze the theatre campaigns based on the launch date. With creating kickstarter for this, before starting the analysis the following should take place.
 
 
+
 ### Analysis of Outcomes Based on Goals
 This is based on successful, defeated and canceled goals based on the target budget goal. First a new sheet was created with the objective of financial goals that are divided in 12 groups of $1000 to $50000. Then using function the number of successful, defeated and canceled campaign were determined. With calculation of the percentage of Successful, defeated and canceled using linear graph for SUM function was created. 
 
