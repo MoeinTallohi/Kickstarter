@@ -20,6 +20,7 @@ The concern of the analysis is to analyze the theatre campaigns based on the lau
 ### Analysis of Outcomes Based on Goals
 This is based on successful, defeated and canceled goals based on the target budget goal. First a new sheet was created with the objective of financial goals that are divided in 12 groups of $1000 to $50000. Then using function the number of successful, defeated and canceled campaign were determined. With calculation of the percentage of Successful, defeated and canceled using linear graph for SUM function was created. 
 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
